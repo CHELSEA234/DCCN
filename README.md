@@ -1,12 +1,12 @@
 Implementation of DCCN, *some codes are being organized*.
 
-**Dependencies:
+**Dependencies:**
 
 Python3.6 or 3.5
 Pytorch-gpu 0.1.12
 Matlab R2016b
 
-**Files:
+**Files:**
 
 *VDSR_dataMaking* contains codes for preprocessing raw image dataset into the form that can be used by VDSR; This is the same for *Lap_dataMaking*. During the preprocessing, *separateData* will be used, too.
 
