@@ -15,8 +15,8 @@
 * **VDSR_model** is the implementation of VDSR, which I have obtain from [here](https://github.com/twtygqyy/pytorch-vdsr).
 
 * **model_test** contains 
-  1. codes for the image augmentation, interpolation, conversion from RGB to crcb type and computation for PSNR and SSIM, 
-  2. pertained models that is in **pretrained**, 
-  3. the test dataset for the evaluation.
+  1) codes for the image augmentation, interpolation, conversion from RGB to crcb type and computation for PSNR and SSIM, 
+  2) pertained models that is in **pretrained**, 
+  3) the test dataset for the evaluation.
 
 * The training model is being organized now.
